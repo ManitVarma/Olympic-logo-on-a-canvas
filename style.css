@@ -1,0 +1,16 @@
+#myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: grey;
+    background-color: white;
+}
+body{
+    background-image: url(mountains.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+h1{
+    color: orangered;
+    font-size: 40px;
+}
